@@ -1,0 +1,53 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+h5 {
+    font-family: 'Josefin Sans', sans-serif
+}
+
+img {
+    max-width:700px;
+}
+
+.work {
+    display: flex;
+}
+
+#work {
+    width: 100%;
+}
+
+.card {
+    width: 300px;
+}
+
+.z-depth-2 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.brand-logo {
+    padding-left: 10px !important;
+}
+.pic-left {
+    float: left;
+    
+}
+.pic-left img {
+    max-width: 300px;
+    padding: 10px;
+}
+.pic-right {
+    float: right;
+    padding: 10px;
+}
+.pic-right img {
+    max-width: 300px;
+}
+.col {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.materialboxed {
+    max-width: none;
+}
